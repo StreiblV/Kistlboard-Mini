@@ -67,9 +67,10 @@ Typical setup steps may include:
 
 1. Install dependencies
 2. Configure environment variables
-3. Start the CMS
-4. Start the web app
-5. Deploy the project to your own server or hosting environment
+3. Setup your DB for CMS
+4. Start the CMS
+5. Start the web app
+6. Deploy the project to your own server or hosting environment
 
 ---
 
