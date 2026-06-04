@@ -1,0 +1,6 @@
+[submodule "cms"]
+	path = cms
+	url = https://github.com/StreiblV/Kistlboard-CMS-Mini.git
+[submodule "web"]
+	path = web
+	url = https://github.com/StreiblV/Kistlboard-Web-Mini.git
